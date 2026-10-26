@@ -1,4 +1,4 @@
-Shapes Calculator and Viewer
+#Shapes Calculator and Viewer
 
 This project is developed using Java OOP concepts and Swing GUI.
 
